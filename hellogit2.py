@@ -1,1 +1,1 @@
-print("Segundov2")
+print("Segundov login")
